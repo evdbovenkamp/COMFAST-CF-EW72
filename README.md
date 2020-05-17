@@ -1,0 +1,2 @@
+# COMFAST-CF-EW72
+OpenWRT COMFAST CF-EW72 Firmware (Minimal + Luci) r13247-631c437a91
